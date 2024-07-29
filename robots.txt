@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://blog.6kin9.com/sitemap.xml
