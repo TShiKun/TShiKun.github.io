@@ -2,68 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://TShiKun.github.io/posts/game/blog/</loc>
-    <lastmod>2022-05-05T00:18:23+08:00</lastmod>
+    <loc>https://TShiKun.github.io/posts/tech/test_tech/</loc>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
-    <loc>https://TShiKun.github.io/posts/tech/web-vue3%E5%AD%A6%E4%B9%A0/</loc>
+    <loc>https://TShiKun.github.io/posts/game/test_game/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/posts/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
-  </url><url>
-    <loc>https://TShiKun.github.io/categories/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
-  </url><url>
-    <loc>https://TShiKun.github.io/tags/redis/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
-  </url><url>
-    <loc>https://TShiKun.github.io/categories/redis/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
-  </url><url>
-    <loc>https://TShiKun.github.io/posts/tech/tech1/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/tags/tech/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/posts/tech/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/tags/</loc>
-    <lastmod>2022-11-30T15:55:23+08:00</lastmod>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/posts/game/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
-    <loc>https://TShiKun.github.io/tags/blog/</loc>
+    <loc>https://TShiKun.github.io/tags/game/</loc>
     <lastmod>2022-05-05T00:18:23+08:00</lastmod>
   </url><url>
-    <loc>https://TShiKun.github.io/tags/life/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://TShiKun.github.io/posts/life/life/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
-    <loc>https://TShiKun.github.io/posts/life/</loc>
-    <lastmod>2022-05-05T00:18:15+08:00</lastmod>
-  </url><url>
     <loc>https://TShiKun.github.io/posts/read/</loc>
+    <lastmod>2022-05-05T00:18:06+08:00</lastmod>
+  </url><url>
+    <loc>https://TShiKun.github.io/categories/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/tags/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>https://TShiKun.github.io/posts/read/read/</loc>
+    <loc>https://TShiKun.github.io/categories/read/</loc>
     <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>https://TShiKun.github.io/posts/tech/tech/</loc>
-    <lastmod>2022-05-05T00:17:58+08:00</lastmod>
+    <loc>https://TShiKun.github.io/posts/read/test_read/</loc>
+    <lastmod>2022-05-05T00:18:06+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/search/</loc>
   </url><url>
     <loc>https://TShiKun.github.io/series/</loc>
+  </url><url>
+    <loc>https://TShiKun.github.io/posts/life/</loc>
   </url>
 </urlset>
