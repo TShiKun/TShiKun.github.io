@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>🧩 标签 on Kin&#39;s Blog</title>
-    <link>https://blog.6kin9.com/tags/</link>
+    <link>https://TShiKun.github.io/tags/</link>
     <description>Recent content in 🧩 标签 on Kin&#39;s Blog</description>
     <generator>Hugo -- 0.122.0</generator>
     <language>zh</language>
     <copyright>Kin</copyright>
     <lastBuildDate>Wed, 30 Nov 2022 15:55:23 +0800</lastBuildDate>
-    <atom:link href="https://blog.6kin9.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://TShiKun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Redis</title>
-      <link>https://blog.6kin9.com/tags/redis/</link>
+      <link>https://TShiKun.github.io/tags/redis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.6kin9.com/tags/redis/</guid>
+      <guid>https://TShiKun.github.io/tags/redis/</guid>
       <description></description>
     </item>
     <item>
       <title>tech</title>
-      <link>https://blog.6kin9.com/tags/tech/</link>
+      <link>https://TShiKun.github.io/tags/tech/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.6kin9.com/tags/tech/</guid>
+      <guid>https://TShiKun.github.io/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>blog</title>
-      <link>https://blog.6kin9.com/tags/blog/</link>
+      <link>https://TShiKun.github.io/tags/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.6kin9.com/tags/blog/</guid>
+      <guid>https://TShiKun.github.io/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>life</title>
-      <link>https://blog.6kin9.com/tags/life/</link>
+      <link>https://TShiKun.github.io/tags/life/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.6kin9.com/tags/life/</guid>
+      <guid>https://TShiKun.github.io/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>read</title>
-      <link>https://blog.6kin9.com/tags/read/</link>
+      <link>https://TShiKun.github.io/tags/read/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://blog.6kin9.com/tags/read/</guid>
+      <guid>https://TShiKun.github.io/tags/read/</guid>
       <description></description>
     </item>
   </channel>
