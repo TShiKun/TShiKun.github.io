@@ -16,12 +16,5 @@
       <guid>https://TShiKun.github.io/posts/tech/test_tech/</guid>
       <description>this is a test blog - tech</description>
     </item>
-    <item>
-      <title>Blog</title>
-      <link>https://TShiKun.github.io/posts/tech/test_tech2/</link>
-      <pubDate>Mon, 29 Jul 2024 00:18:23 +0800</pubDate>
-      <guid>https://TShiKun.github.io/posts/tech/test_tech2/</guid>
-      <description>this is a test blog - tech</description>
-    </item>
   </channel>
 </rss>

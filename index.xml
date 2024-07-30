@@ -17,13 +17,6 @@
       <description>this is a test blog - tech</description>
     </item>
     <item>
-      <title>Blog</title>
-      <link>https://TShiKun.github.io/posts/tech/test_tech2/</link>
-      <pubDate>Mon, 29 Jul 2024 00:18:23 +0800</pubDate>
-      <guid>https://TShiKun.github.io/posts/tech/test_tech2/</guid>
-      <description>this is a test blog - tech</description>
-    </item>
-    <item>
       <title>Game</title>
       <link>https://TShiKun.github.io/posts/game/test_game/</link>
       <pubDate>Thu, 05 May 2022 00:18:23 +0800</pubDate>
@@ -49,7 +42,7 @@
       <link>https://TShiKun.github.io/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://TShiKun.github.io/links/</guid>
-      <description>Kin&amp;#39;s Blog Never Be Afraid Sulv&amp;#39;s Blog 一个记录技术、阅读、生活的博客 Kyxie&amp;#39;s Blog A Hello World Printer 友链格式： 1 2 3 4 friend name=&amp;#34;Kin&amp;#39;s Blog&amp;#34; url=&amp;#34;https://TShiKun.github.io/&amp;#34; logo=&amp;#34;https://TShiKun.github.io/img/Q.jpg&amp;#34; word=&amp;#34;Never Be Afraid&amp;#34;</description>
+      <description>Kin&amp;#39;s Blog Never Be Afraid 友链格式： 1 2 3 4 friend name=&amp;#34;Kin&amp;#39;s Blog&amp;#34; url=&amp;#34;https://TShiKun.github.io/&amp;#34; logo=&amp;#34;https://TShiKun.github.io/img/Q.jpg&amp;#34; word=&amp;#34;Never Be Afraid&amp;#34;</description>
     </item>
     <item>
       <title>🪪 关于</title>
