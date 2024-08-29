@@ -14,7 +14,7 @@
       <link>https://TShiKun.github.io/posts/tech/test_tech/</link>
       <pubDate>Mon, 29 Jul 2024 00:18:23 +0800</pubDate>
       <guid>https://TShiKun.github.io/posts/tech/test_tech/</guid>
-      <description>test</description>
+      <description>1.图像放大测试 1.1绝对路径 默认路径是从static开始，在static/img中新建md同名文件夹存储图片 写法：![绝对路径] (/img/test_tech/1.jpg) 去掉“]”和“(”的空格即可，这里怕被页面识别 1.2相对路径 在当前博客目录下建立与md同名的文件夹保存图片 直接输入图片名称即可 写法：![相对路径] (1.jpg)</description>
     </item>
   </channel>
 </rss>

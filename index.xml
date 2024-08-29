@@ -21,14 +21,14 @@
       <link>https://TShiKun.github.io/posts/tech/test_tech/</link>
       <pubDate>Mon, 29 Jul 2024 00:18:23 +0800</pubDate>
       <guid>https://TShiKun.github.io/posts/tech/test_tech/</guid>
-      <description>test</description>
+      <description>1.图像放大测试 1.1绝对路径 默认路径是从static开始，在static/img中新建md同名文件夹存储图片 写法：![绝对路径] (/img/test_tech/1.jpg) 去掉“]”和“(”的空格即可，这里怕被页面识别 1.2相对路径 在当前博客目录下建立与md同名的文件夹保存图片 直接输入图片名称即可 写法：![相对路径] (1.jpg)</description>
     </item>
     <item>
       <title>test_game</title>
       <link>https://TShiKun.github.io/posts/game/test_game/</link>
       <pubDate>Sun, 05 May 2024 00:18:23 +0800</pubDate>
       <guid>https://TShiKun.github.io/posts/game/test_game/</guid>
-      <description>test</description>
+      <description>test_game</description>
     </item>
     <item>
       <title>test_life</title>
@@ -42,10 +42,10 @@
       <link>https://TShiKun.github.io/posts/read/test_read/</link>
       <pubDate>Sun, 05 May 2024 00:18:06 +0800</pubDate>
       <guid>https://TShiKun.github.io/posts/read/test_read/</guid>
-      <description>test</description>
+      <description>test_read</description>
     </item>
     <item>
-      <title>🧑‍🤝‍🧑 友链</title>
+      <title>🤝 友链</title>
       <link>https://TShiKun.github.io/links/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://TShiKun.github.io/links/</guid>
