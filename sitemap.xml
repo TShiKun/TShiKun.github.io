@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://TShiKun.github.io/posts/ctf/test_ctf/</loc>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
+  </url><url>
     <loc>https://TShiKun.github.io/posts/tech/test_tech/</loc>
     <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
@@ -11,10 +14,16 @@
     <loc>https://TShiKun.github.io/posts/</loc>
     <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
+    <loc>https://TShiKun.github.io/posts/ctf/</loc>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
+  </url><url>
+    <loc>https://TShiKun.github.io/tags/ctf/</loc>
+    <lastmod>2024-07-30T00:18:23+08:00</lastmod>
+  </url><url>
     <loc>https://TShiKun.github.io/</loc>
     <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
-    <loc>https://TShiKun.github.io/tags/tech/</loc>
+    <loc>https://TShiKun.github.io/tags/test/</loc>
     <lastmod>2024-07-30T00:18:23+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/posts/tech/</loc>
@@ -22,9 +31,6 @@
   </url><url>
     <loc>https://TShiKun.github.io/tags/</loc>
     <lastmod>2024-07-30T00:18:23+08:00</lastmod>
-  </url><url>
-    <loc>https://TShiKun.github.io/tags/life/</loc>
-    <lastmod>2024-07-28T00:18:15+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/posts/life/test_life/</loc>
     <lastmod>2024-07-28T00:18:15+08:00</lastmod>
@@ -35,19 +41,13 @@
     <loc>https://TShiKun.github.io/posts/game/</loc>
     <lastmod>2024-05-05T00:18:23+08:00</lastmod>
   </url><url>
-    <loc>https://TShiKun.github.io/tags/game/</loc>
-    <lastmod>2024-05-05T00:18:23+08:00</lastmod>
-  </url><url>
     <loc>https://TShiKun.github.io/posts/read/</loc>
     <lastmod>2024-05-05T00:18:06+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/categories/</loc>
     <lastmod>2024-05-05T00:18:06+08:00</lastmod>
   </url><url>
-    <loc>https://TShiKun.github.io/tags/read/</loc>
-    <lastmod>2024-05-05T00:18:06+08:00</lastmod>
-  </url><url>
-    <loc>https://TShiKun.github.io/categories/read/</loc>
+    <loc>https://TShiKun.github.io/categories/test/</loc>
     <lastmod>2024-05-05T00:18:06+08:00</lastmod>
   </url><url>
     <loc>https://TShiKun.github.io/posts/read/test_read/</loc>
@@ -56,8 +56,6 @@
     <loc>https://TShiKun.github.io/archives/</loc>
   </url><url>
     <loc>https://TShiKun.github.io/search/</loc>
-  </url><url>
-    <loc>https://TShiKun.github.io/posts/ctf/</loc>
   </url><url>
     <loc>https://TShiKun.github.io/series/</loc>
   </url><url>

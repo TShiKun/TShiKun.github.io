@@ -10,11 +10,11 @@
     <lastBuildDate>Sun, 28 Jul 2024 00:18:15 +0800</lastBuildDate>
     <atom:link href="https://TShiKun.github.io/posts/life/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Life</title>
+      <title>test_life</title>
       <link>https://TShiKun.github.io/posts/life/test_life/</link>
       <pubDate>Sun, 28 Jul 2024 00:18:15 +0800</pubDate>
       <guid>https://TShiKun.github.io/posts/life/test_life/</guid>
-      <description>life</description>
+      <description>test</description>
     </item>
   </channel>
 </rss>

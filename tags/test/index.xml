@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>test on Kin&#39;s Blog</title>
+    <link>https://TShiKun.github.io/tags/test/</link>
+    <description>Recent content in test on Kin&#39;s Blog</description>
+    <generator>Hugo -- 0.122.0</generator>
+    <language>zh</language>
+    <copyright>Kin</copyright>
+    <lastBuildDate>Tue, 30 Jul 2024 00:18:23 +0800</lastBuildDate>
+    <atom:link href="https://TShiKun.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test_tech</title>
+      <link>https://TShiKun.github.io/posts/tech/test_tech/</link>
+      <pubDate>Mon, 29 Jul 2024 00:18:23 +0800</pubDate>
+      <guid>https://TShiKun.github.io/posts/tech/test_tech/</guid>
+      <description>test</description>
+    </item>
+    <item>
+      <title>test_game</title>
+      <link>https://TShiKun.github.io/posts/game/test_game/</link>
+      <pubDate>Sun, 05 May 2024 00:18:23 +0800</pubDate>
+      <guid>https://TShiKun.github.io/posts/game/test_game/</guid>
+      <description>test</description>
+    </item>
+    <item>
+      <title>test_life</title>
+      <link>https://TShiKun.github.io/posts/life/test_life/</link>
+      <pubDate>Sun, 28 Jul 2024 00:18:15 +0800</pubDate>
+      <guid>https://TShiKun.github.io/posts/life/test_life/</guid>
+      <description>test</description>
+    </item>
+    <item>
+      <title>test_read</title>
+      <link>https://TShiKun.github.io/posts/read/test_read/</link>
+      <pubDate>Sun, 05 May 2024 00:18:06 +0800</pubDate>
+      <guid>https://TShiKun.github.io/posts/read/test_read/</guid>
+      <description>test</description>
+    </item>
+  </channel>
+</rss>
